@@ -9,7 +9,8 @@
     display: flex;
     background-position: center;
     background-repeat: no-repeat;
-    background: linear-gradient(135deg, #ff416c, #ff4b2b);
+    display: flex;
+    background: url(https://i.pinimg.com/originals/04/94/4e/04944e0387af727cfa13a614966d28d3.gif);
   }
   .logo {
     width: 50%;
