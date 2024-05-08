@@ -3,6 +3,7 @@
   }
   html {
     display: flex;
+    overflow: hidden;
   }
   html {
     --s: 25vmin;
